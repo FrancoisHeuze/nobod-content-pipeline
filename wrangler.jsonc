@@ -1,0 +1,8 @@
+{
+"name": "nobod-content-pipeline",
+"main": "src/index.js",
+"compatibility_date": "2026-08-25",
+"observability": {
+"enabled": true
+}
+}
